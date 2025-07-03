@@ -64,6 +64,30 @@ Outras: Angular
     └── Sair
 ```
 
+<h3 align="center">🔹 Wireframes Projeto Savini</h3>
+
+![Login](assets/login.png)
+
+![CadastroDeFuncionários](assets/cadastro-funcionario.png)
+
+![Clientes](assets/clientes.png)
+
+![CadastroDeClientes](assets/cadastro-cliente.png)
+
+![Veículos](assets/veiculos.png)
+
+![OrdemDeServiços](assets/ordem-servico.png)
+
+![Serviços](assets/servicos.png)
+
+![PeçasEestoque](assets/pecas-estoque.png)
+
+![Financeiro](assets/financeiro.png)
+
+![Agenda](assets/agenda.png)
+
+![Configurações](assets/configuracoes.png)
+
 <h3 align="center">🔹 Autora: Luana Silva</h3>
 <div align="center">
 
